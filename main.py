@@ -7,11 +7,11 @@ pygame.mixer.init()
 
 def Fearless():
 
-    pygame.mixer.music.load("./music/fearless.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/fearless.wav")
     pygame.mixer.music.play()
 
 def cuagain():
-    pygame.mixer.music.load("./music/cuagain.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/cuagain.wav")
     pygame.mixer.music.play()
     
 def git():
@@ -21,74 +21,74 @@ def secret():
     webbrowser.open("https://tinyurl.com/bobuxgenerator222")
     
 def ONON():
-    pygame.mixer.music.load("./music/ONON.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/ONON.wav")
     pygame.mixer.music.play() 
     
 def infectious():
-    pygame.mixer.music.load("./music/Infectious.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/Infectious.wav")
     pygame.mixer.music.play() 
 
 def whywelose():
-    pygame.mixer.music.load("./music/whyweloss.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/whyweloss.wav")
     pygame.mixer.music.play() 
     
 def candyland():
-    pygame.mixer.music.load("./music/candyland.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/candyland.wav")
     pygame.mixer.music.play() 
     
 def Flashes():
-    pygame.mixer.music.load("./music/Flashes.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/Flashes.wav")
     pygame.mixer.music.play() 
 
 def Royality():
-    pygame.mixer.music.load("./music/Royalty.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/Royalty.wav")
     pygame.mixer.music.play() 
 
 def myheart():
-    pygame.mixer.music.load("./music/myheart.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/myheart.wav")
     pygame.mixer.music.play() 
     
 def Dreams():
-    pygame.mixer.music.load("./music/Dreams.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/Dreams.wav")
     pygame.mixer.music.play() 
     
 def perfect10():
-    pygame.mixer.music.load("./music/perfect10.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/perfect10.wav")
     pygame.mixer.music.play() 
 
 def howling():
-    pygame.mixer.music.load("./music/howling.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/howling.wav")
     pygame.mixer.music.play() 
     
 def skyhigh():
-    pygame.mixer.music.load("./music/skyhigh.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/skyhigh.wav")
     pygame.mixer.music.play() 
     
 def hope():
-    pygame.mixer.music.load("./music/hope.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/hope.wav")
     pygame.mixer.music.play() 
     
 def high():
-    pygame.mixer.music.load("./music/high.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/high.wav")
     pygame.mixer.music.play() 
     
 def Eclipse():
-    pygame.mixer.music.load("./music/Eclipse.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/Eclipse.wav")
     pygame.mixer.music.play() 
 def nova():
-    pygame.mixer.music.load("./music/nova.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/nova.wav")
     pygame.mixer.music.play() 
     
 def Hellcat():
-    pygame.mixer.music.load("./music/hellcat.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/hellcat.wav")
     pygame.mixer.music.play()
     
 def Earth():
-    pygame.mixer.music.load("./music/earth.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/earth.wav")
     pygame.mixer.music.play()
     
 def undone():
-    pygame.mixer.music.load("./music/undone.wav")
+    pygame.mixer.music.load("http://azordon.cf/music/undone.wav")
     pygame.mixer.music.play()
   
 def stop():
@@ -101,7 +101,7 @@ dpg.create_viewport()
 
 dpg.setup_dearpygui()
 
-with dpg.window(label="NCS MUSIC PLAYER - 1.2", pos=(425, 150), width=480, height=480) as main_window:
+with dpg.window(label="NCS MUSIC PLAYER - 1.3", pos=(425, 150), width=480, height=480) as main_window:
     
     dpg.add_text("Select music that you want play")
     dpg.add_button(label="Lost Sky - Fearless pt.II", callback=Fearless)
