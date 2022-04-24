@@ -1,5 +1,6 @@
 # No-Copyright-Songs Player
 
+# temporary not working look at last todo point
 # how to install/use
 
 # instalation on windows
@@ -50,5 +51,7 @@ if you have python skip to step 2
     - [x] DESMEON - HELLCAT [NCS RELEASE]
     - [x] DESMEON - UNDONE (FEAT. STEKLO) [NCS RELEASE]
     - [ ] Nekozilla - Different Heaven
+	
+- [ ] fix playing from url
     
 
