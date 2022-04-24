@@ -52,7 +52,6 @@ if you have python skip to step 2
     - [x] DESMEON - UNDONE (FEAT. STEKLO) [NCS RELEASE]
     - [ ] Nekozilla - Different Heaven
 	
-- [ ] fix playing from url (program temporary will not work due to issues with getting wav from url
- main)
+- [ ] fix playing from url (program temporary will not work due to issues with getting wav from url)
     
 
