@@ -12,6 +12,15 @@ you don't must do other steps if you too lazy just use start.cmd
 4. after installing requirements use type "python main.py"
 5. DONE
 ```
+# instalation on linux/macos
+```
+if you have python skip to step 2
+1. download python (i'm recommending 3.9 ver)
+2. open terminal in root folder
+3. type "pip install -r requirements.txt"
+4. after installing requirements use type "python main.py"
+5. DONE
+```
 
 
 # TODO
