@@ -1,6 +1,7 @@
 # No-Copyright-Songs Player
 
 # temporary not working look at last todo point
+# note: update will be in 1 month cuz i'm lazy + i don't have time
 # how to install/use
 
 # instalation on windows
