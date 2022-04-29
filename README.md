@@ -1,7 +1,6 @@
 # No-Copyright-Songs Player
 
-# temporary not working look at last todo point
-# Please if you want edit
+# Please if you want fork & edit
 ```
 don't delete credits from gui
 put credits in readme file
