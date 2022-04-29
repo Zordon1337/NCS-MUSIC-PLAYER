@@ -23,6 +23,7 @@ you don't must do other steps if you too lazy just use start.cmd
 ```
 if you have python skip to step 2
 1. download python (i'm recommending 3.9 ver)
+1.1 download VLC PLAYER (IT MUST BE 64BIT OTHERWISE PROGRAM WILL NOT WORK) 
 2. open terminal in root folder
 3. type "pip install -r requirements.txt"
 4. after installing requirements use type "python main.py"
