@@ -1,2 +1,2 @@
 dearpygui
-pygame
+python-vlc

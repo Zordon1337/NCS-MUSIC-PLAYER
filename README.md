@@ -1,8 +1,13 @@
 # No-Copyright-Songs Player
 
 # temporary not working look at last todo point
-# note: update will be in 1 month cuz i'm lazy + i don't have time
+# Please if you want edit
+```
+don't delete credits from gui
+put credits in readme file
+don't stole my code and saying "sElF CoDeD" because i really put many time to make this program 
 # how to install/use
+```
 
 # instalation on windows
 ```
@@ -23,6 +28,8 @@ if you have python skip to step 2
 4. after installing requirements use type "python main.py"
 5. DONE
 ```
+
+# if you found any bug feel free to submit issue
 
 
 # TODO
@@ -53,6 +60,7 @@ if you have python skip to step 2
     - [x] DESMEON - UNDONE (FEAT. STEKLO) [NCS RELEASE]
     - [ ] Nekozilla - Different Heaven
 	
-- [ ] fix playing from url (program temporary will not work due to issues with getting wav from url)
+- [x] fix playing from url
+- [ ] optimize code & clear from junk
     
 
