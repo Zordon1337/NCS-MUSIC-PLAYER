@@ -10,8 +10,9 @@ don't stole my code and saying "sElF CoDeD" because i really put many time to ma
 
 # instalation on windows
 ```
-if you have python skip to step 2
+if you have python, VLC skip to step 2
 1. download python (i'm recommending 3.9 ver)
+1.1 download VLC PLAYER (IT MUST BE 64BIT OTHERWISE PROGRAM WILL NOT WORK) 
 you don't must do other steps if you too lazy just use start.cmd
 2. open cmd in root folder
 3. type "pip install -r requirements.txt"
