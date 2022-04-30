@@ -4,7 +4,7 @@
 ```
 don't delete credits from gui
 put credits in readme file
-don't stole my code and saying "sElF CoDeD" because i really put many time to make this program 
+don't stole my code and saying "sElF CoDeD" because i really put many work to make this program 
 # how to install/use
 ```
 
