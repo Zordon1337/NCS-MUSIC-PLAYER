@@ -46,7 +46,7 @@ if you have python skip to step 2
     - [x] Cartoon - Howling (Ft. Asena) 
     - [x] JPB - High 
     - [x] Tobu - Hope [NCS Release]
-    - [+] Tobu - Candyland [NCS Release]
+    - [x] Tobu - Candyland [NCS Release]
     - [x] Different Heaven & EH!DE - My Heart [NCS Release]
     - [x] Elektronomia - Sky High [NCS Release]
     - [x] Lost Sky - Dreams
