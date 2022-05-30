@@ -1,4 +1,5 @@
 # No-Copyright-Songs Player
+!!!note: i'm not going to update it anymore!!!
 
 # Please if you want fork & edit
 ```
