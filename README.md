@@ -1,6 +1,9 @@
 # No-Copyright-Songs Player
 !!!note: i'm not going to update it anymore!!!
-
+# now it's only archive...
+```
+the server with the music is DEAD and there is no method to play this
+```
 # Please if you want fork & edit
 ```
 don't delete credits from gui
